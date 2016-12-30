@@ -16,6 +16,8 @@ Many students of Bangladesh choose to use Facebook groups to ask and answer ques
 Installation : ```pip install nltk```
 * ALCHEMIAPI 
 Installation : http://www.alchemyapi.com/
+* Gensim 
+Installation : ```pip install gensim```
 
 ### Sample Visualization : 
 
